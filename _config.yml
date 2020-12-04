@@ -1,0 +1,12 @@
+# Site settings
+title: "tinYield"
+description: "Towards sequence traversal optimization and extensibility"
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num/"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
